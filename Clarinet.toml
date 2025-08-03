@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.body-art-regulation]
+path = 'contracts/body-art-regulation.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.childcare-inspection]
 path = 'contracts/childcare-inspection.clar'
 clarity_version = 2
